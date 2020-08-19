@@ -1,0 +1,27 @@
+body{
+    font-size:62.5%;
+}
+.text-bold{
+    font-weight: bold;
+}
+.text-italic{
+    font-style: italic;
+}
+
+/* there are M1.1 L1.2 X1.3 XL1.5  */
+.text-sizeM{
+    font-size:1.1rem;
+}
+.text-sizeL{
+    font-size:1.2rem;
+}
+.text-sizeX{
+    font-size:1.3rem;
+}
+.text-sizeXL{
+    font-size:1.5rem;
+}
+.title{
+    margin: 0 auto;
+    
+}
